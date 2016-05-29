@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/zaru/excel2web/issues"
   },
-  "homepage": "https://github.com/zaru/excel2web#readme"
+  "homepage": "https://github.com/zaru/excel2web#readme",
+  "private": true
 }
