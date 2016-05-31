@@ -2,7 +2,8 @@
     "extends": "eslint:recommended",
     "env": {
         "browser": true,
-        "es6": true
+        "es6": true,
+        "node": true
     },
     "rules": {
         "semi": "error",
@@ -25,6 +26,7 @@
         "require-yield": "error",
         "sort-imports": "error",
         "template-curly-spacing": "error",
-        "yield-star-spacing": "error"
+        "yield-star-spacing": "error",
+        "no-console": 0
     }
 }
